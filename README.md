@@ -1,4 +1,4 @@
-# EMORY LIGHT MUSIC CONTROLER ASSIGNMENT
+# EMORY LIGHT MUSIC CONTROLLER ASSIGNMENT
  
 This is my assignment
 
@@ -9,18 +9,20 @@ This is my assignment
 - [Development documentation](developmentDocumentation.md)
 - [Max patches](maxPatches)
 
-###WHAT WORKED
-- Controler was easy to implement as well as button combinations using gate
-- LOTS of loadmess objects make it start in a reasonable place
-- I think its pretty fun to use and really powerful
 
-###WHAT DIDN'T WORK
-- CPU requirement is huge, probably barely works on intel macs and certain windows machines
-- Need further color control
-- No accelerometer or gyroscope controls right now since didn't work with xbox controler I was using
+### LEARNING THE PROGRAM
+ First off, you should familiarize yourself with the controls one at a time so you understand what each action feels like to use
+### RECOMMENDED WORKFLOW
+- select a video to use (DPAD LEFT[-] and DPAD RIGHT[+])
 
-###WORKFLOW
-- I aproach using this patch by first selecting a video to use (DPAD LEFT and DPAD RIGHT) then deciding how much to mix with camera input or if I will use only one or the other (RIGHT TRIGGER + LEFT STICK)
-- Then I quickly switch through different types of oscillators (Y and A) and the operation that occurs between the original video signal and the oscillator (DPAD DOWN and DPAD UP)
-- I then usually adjust saturation and brightness to complement which oscillator and operation I decide on (RIGHT TRIGGER and RIGHT STICK)
-- Then you can 
+- decide how much to mix with camera input with the video input, you could mix them equally or just use 1 (RIGHT TRIGGER + LEFT STICK up/down)
+
+- switch through different types of video oscillators (Y[-] and A[+]) while switching the operation that occurs between the video+camera signal and the video oscillator (DPAD DOWN[-] and DPAD UP[+]). Some combinations won't show any signal so make sure to spam through these quickly to get to a good starting position. If it doesn't move, try the other direction
+
+- it then helps to adjust brightness (RIGHT TRIGGER and LEAN CONTROLLER up/down) and saturation (RIGHT TRIGGER and LEAN CONTROLLER left/right) to complement which oscillator and operation decide on
+
+- the operation and oscillator you decide on have the biggest effect on the signal so it is logical to explore these to find combinations you like
+
+- B turns on kaleidoscope on oscillator and LEAN CONTROLLER changes its offset
+
+- have fun!

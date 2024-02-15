@@ -5,7 +5,5 @@
  - Click the button to expand view and comfirm controls are functioning as expected
  
 ### PATCH SETUP
-- Open musicLight.maxpat
-- make sure start toggle is active (shows [X] not [ ])
+- Open lightMusic.maxpat
 - hit start button for fullscreen
-- turn on EZ DAC

@@ -3,7 +3,7 @@
 ## BUTTON CONTROLS
 - START: toggle fullscreen/floating window
 - X: (top button) toggle static signal on/off
-- B: (bottom button) toggle kaleidoscope on/off
+- B: (bottom button) toggle kaleidoscope on/off (LEANING CONTROLLER affects kaleidoscope position)
 - Y: (left button) switch generative oscillator type (-)
 - A: (right button) switch generative oscillator type (+)
 - DPAD LEFT: move through video playlist (-)
@@ -12,18 +12,18 @@
 - DPAD UP: switch operation between video and oscillator (+)
 
 ##  TRIGGER + JOYSTICK CONTROLS 
-(4 triggers) * (2 joysticks) * (Xvalue + Yvalue) = 16 possible combinations\
-Hold trigger then adjust joystick\
-Let go of trigger to set that value\
+- (4 triggers) * (2 joysticks) * (Xvalue + Yvalue) = 16 possible combinations
+- Hold trigger then adjust joystick
+- Let go of trigger to set that value
 
 ### RIGHT TRIGGER
-- RIGHT STICK X: Brightness
-- RIGHT STICK Y: Contrast
+- LEAN UP/DOWN: Brightness
+- LEAN LEFT/RIGHT: Contrast
 - RIGHT STICK BUTTON: Toggle gain type
 - LEFT STICK Y: fade between camera and video signals
 
 ### LEFT TRIGGER
-- RIGHT STICK Y: rotate everything
+- RIGHT STICK Y: rotate everything (hold trigger + right stick down then release trigger for upright)
 - LEFT STICK X,Y + LEFT STICK BUTTON: Zoom
 
 ### RIGHT BUMPER
